@@ -1,6 +1,9 @@
 # АМОГУС без щупу під кодовою назвою "ЕЛЕКТРИКУС"
-![](ELECTRONICUS.gif)
-![](SCHEME.png)
+![](res/ELECTRONICUS.gif)
+![](res/SCHEME.png)
+-- --
+
+Файл з кодом -- [ELECTRONICUS.ino](ELECTRONICUS.ino)
 
 -- --
 
